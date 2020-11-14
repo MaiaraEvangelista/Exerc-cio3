@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Exercício3/bin/Debug/netcoreapp3.1/Exercício3
+/home/maiara/Área de Trabalho/Exercício3/bin/Debug/netcoreapp3.1/Exercício3.deps.json
+/home/maiara/Área de Trabalho/Exercício3/bin/Debug/netcoreapp3.1/Exercício3.runtimeconfig.json
+/home/maiara/Área de Trabalho/Exercício3/bin/Debug/netcoreapp3.1/Exercício3.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Exercício3/bin/Debug/netcoreapp3.1/Exercício3.dll
+/home/maiara/Área de Trabalho/Exercício3/bin/Debug/netcoreapp3.1/Exercício3.pdb
+/home/maiara/Área de Trabalho/Exercício3/obj/Debug/netcoreapp3.1/Exercício3.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Exercício3/obj/Debug/netcoreapp3.1/Exercício3.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Exercício3/obj/Debug/netcoreapp3.1/Exercício3.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Exercício3/obj/Debug/netcoreapp3.1/Exercício3.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Exercício3/obj/Debug/netcoreapp3.1/Exercício3.dll
+/home/maiara/Área de Trabalho/Exercício3/obj/Debug/netcoreapp3.1/Exercício3.pdb
+/home/maiara/Área de Trabalho/Exercício3/obj/Debug/netcoreapp3.1/Exercício3.genruntimeconfig.cache
